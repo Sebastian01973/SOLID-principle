@@ -14,3 +14,4 @@ This repository contains examples of the five SOLID design principles of object-
 2. Sebastian Felipe Martinez
 3. Jhon Edwin Acevedo Jimenez
 4. Andres Felipe Nausan Fajardo
+5. Kevin Oswaldo Celis
